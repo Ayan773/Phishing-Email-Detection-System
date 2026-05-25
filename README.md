@@ -23,7 +23,7 @@ TF-IDF · Random Forest · URL Analysis · Entropy Scoring · Live Web App
 > **No Python, no setup, no server needed.**
 
 ```
-1. Download  →  phishing_email_classifier_app.html
+1. Download  →  C:/Users/HP/Downloads/phishing_email_classifier_app%20(1).html
 2. Open      →  double-click in any browser
 3. Paste     →  any email text
 4. Click     →  Analyze email
